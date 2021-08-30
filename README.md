@@ -1,4 +1,4 @@
-# Lyft-Trip-Data
+# Codecademy -- Lyft-Trip-Data
 
 /* examine the three tables */
 select * from trips;
